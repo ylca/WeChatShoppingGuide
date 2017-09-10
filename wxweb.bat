@@ -1,0 +1,1 @@
+python wxweb.py 80
