@@ -1,4 +1,4 @@
-# encoding: utf-8
+﻿# encoding: utf-8
 import web
 import urllib2
 import hashlib
@@ -23,10 +23,10 @@ urls = (
     '/coupon', 'coupon'
 )
 
-encodingAESKey = 'ovET1IewlrFhqx8kbEPWjkLQORbNEdAiSGLASk2dmnJ'
-token = "vux421mws4x4gtpiwjpq2tp054vrkgt1"
-appid = "wxc2636e2ac5472e46"
-daTaoKeAppKey = "f0felk4nc9"
+encodingAESKey = '自己写'
+token = "自己写"
+appid = "自己写"
+daTaoKeAppKey = "自己写"
 
 # 格式化模板信息
 def fromatXml(FromUserName, ToUserName, CreateTime, Content):
